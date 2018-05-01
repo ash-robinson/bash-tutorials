@@ -7,7 +7,14 @@ That command elevates the permissions of scripts so you can run it.
 That command will execute the script.
 
 
-Question 1: Command to make the script print 'hello <your name>'
-Question 2: Command to make the script print 'hello <your username>'
-
+Question 1: 		Command to make the script print 'hello world'
+Question 2: 		Command to make the script print your username'
+Question 3: 		Command to make the script print your current directory contents
+Question 4: 		Command to make the script print your system path
+Question 5: 		Command to make the script print the first line in the instructions.txt file
+Question 6: 		Command to make the script print the last line in the instructions.txt file
+Question 7: 		Command to make the script print the current disk usage
+Question 8: 		Command to make the script print your home directory
+Question 9: 		Command to make the script print the machine date
+Question 10: 	Command to make the script print the current machine uptime
 
