@@ -1,0 +1,13 @@
+1) Run: chmod +x task.sh 
+
+That command elevates the permissions of scripts so you can run it.
+
+2) Run: ./task.sh
+
+That command will execute the script.
+
+
+Question 1: Command to make the script print 'hello <your name>'
+Question 2: Command to make the script print 'hello <your username>'
+
+
