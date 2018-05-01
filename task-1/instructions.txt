@@ -16,5 +16,5 @@ Question 6: 		Command to make the script print the last line in the instructions
 Question 7: 		Command to make the script print the current disk usage
 Question 8: 		Command to make the script print your home directory
 Question 9: 		Command to make the script print the machine date
-Question 10: 	Command to make the script print the current machine uptime
+Question 10: 		Command to make the script print the current machine uptime
 
