@@ -11,7 +11,7 @@ Go onto your chosen directory and run
 ### Run the Task
 
 Open the task directory
-<code>cd \<task></code>
+<code>cd task-XXX</code>
 
 Should contain a file structure with 3 files:
 .
