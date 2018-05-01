@@ -24,7 +24,7 @@ Should contain a file structure with 3 files:
 
 ### View Instructions
 
-<code>cat \<instruction.txt></code>
+<code>cat instruction.txt</code>
 
 ### Run task.sh
 
