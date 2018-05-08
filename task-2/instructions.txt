@@ -1,0 +1,23 @@
+This task is all about using grep to optimally get information out of files.
+Using the attached file: a copy of the MIT-License for this very project
+
+Standard GREP:
+
+Question 1: 		Command to get count of lines with the literal string 'notice'	
+Question 2: 		Command to print every line with the literal string 'license'
+Question 3: 		Command to print every line with the case insensitive string 'license'
+Question 4: 		Command to print out every line that starts with the case insensitive string 'the' and its line number in the file
+Question 5: 		Command to print out all non-empty lines
+Question 6: 		Command to print every line that does not contain the letter 'o'
+Question 7: 		Command to print every line that starts with the letter 'T' and its line number
+Question 8: 		Command to print every line containing words that end with case-insensitive 'ty'
+
+REGEX Extension:
+
+Extension 1:		Command to get the count of occurrences of the literal string 'notice'	
+Extension 2:		Command to get every word containing the letter 'o' in the file
+Extension 3:		Command to get every unique word containing the letter 'i' in the file
+Extension 4:		Command to get every unique word containing the letter 'y' or 'g' in the file
+Extension 5:		Command to get every unique word containing the letter 'y' or 't', but not both in the file
+
+sed 's/notice/notice\n/g' filename | grep -c "notice"
