@@ -20,4 +20,6 @@ Extension 3:		Command to get every unique word containing the letter 'i' in the 
 Extension 4:		Command to get every unique word containing the letter 'y' or 'g' in the file
 Extension 5:		Command to get every unique word containing the letter 'y' or 't', but not both in the file
 
-sed 's/notice/notice\n/g' filename | grep -c "notice"
+Note: Remember you can use grep --help like most other commands in unix to help you :)
+
+ 
